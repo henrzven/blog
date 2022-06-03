@@ -80,4 +80,6 @@ end
 
 gem "devise"
 
+gem "rolify"
+
 #gem 'webpacker', '~> 5.0'
